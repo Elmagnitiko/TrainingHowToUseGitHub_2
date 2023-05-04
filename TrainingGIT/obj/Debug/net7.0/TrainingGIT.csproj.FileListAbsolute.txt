@@ -1,0 +1,15 @@
+D:\TrainingGIT\TrainingGIT\bin\Debug\net7.0\TrainingGIT.exe
+D:\TrainingGIT\TrainingGIT\bin\Debug\net7.0\TrainingGIT.deps.json
+D:\TrainingGIT\TrainingGIT\bin\Debug\net7.0\TrainingGIT.runtimeconfig.json
+D:\TrainingGIT\TrainingGIT\bin\Debug\net7.0\TrainingGIT.dll
+D:\TrainingGIT\TrainingGIT\bin\Debug\net7.0\TrainingGIT.pdb
+D:\TrainingGIT\TrainingGIT\obj\Debug\net7.0\TrainingGIT.csproj.AssemblyReference.cache
+D:\TrainingGIT\TrainingGIT\obj\Debug\net7.0\TrainingGIT.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrainingGIT\TrainingGIT\obj\Debug\net7.0\TrainingGIT.AssemblyInfoInputs.cache
+D:\TrainingGIT\TrainingGIT\obj\Debug\net7.0\TrainingGIT.AssemblyInfo.cs
+D:\TrainingGIT\TrainingGIT\obj\Debug\net7.0\TrainingGIT.csproj.CoreCompileInputs.cache
+D:\TrainingGIT\TrainingGIT\obj\Debug\net7.0\TrainingGIT.dll
+D:\TrainingGIT\TrainingGIT\obj\Debug\net7.0\refint\TrainingGIT.dll
+D:\TrainingGIT\TrainingGIT\obj\Debug\net7.0\TrainingGIT.pdb
+D:\TrainingGIT\TrainingGIT\obj\Debug\net7.0\TrainingGIT.genruntimeconfig.cache
+D:\TrainingGIT\TrainingGIT\obj\Debug\net7.0\ref\TrainingGIT.dll

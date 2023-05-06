@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\TrainingGIT\\TrainingGIT\\TrainingGIT.csproj": {}
+    "D:\\LocalRepo\\TrainingHowToUseGitHub_2\\TrainingGIT\\TrainingGIT.csproj": {}
   },
   "projects": {
-    "D:\\TrainingGIT\\TrainingGIT\\TrainingGIT.csproj": {
+    "D:\\LocalRepo\\TrainingHowToUseGitHub_2\\TrainingGIT\\TrainingGIT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\TrainingGIT\\TrainingGIT\\TrainingGIT.csproj",
+        "projectUniqueName": "D:\\LocalRepo\\TrainingHowToUseGitHub_2\\TrainingGIT\\TrainingGIT.csproj",
         "projectName": "TrainingGIT",
-        "projectPath": "D:\\TrainingGIT\\TrainingGIT\\TrainingGIT.csproj",
+        "projectPath": "D:\\LocalRepo\\TrainingHowToUseGitHub_2\\TrainingGIT\\TrainingGIT.csproj",
         "packagesPath": "C:\\Users\\zheny\\.nuget\\packages\\",
-        "outputPath": "D:\\TrainingGIT\\TrainingGIT\\obj\\",
+        "outputPath": "D:\\LocalRepo\\TrainingHowToUseGitHub_2\\TrainingGIT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zheny\\AppData\\Roaming\\NuGet\\NuGet.Config",
